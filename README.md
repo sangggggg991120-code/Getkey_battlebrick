@@ -1,2 +1,5 @@
-# Getkey_battlebrick
-Made by hamster
+{
+  "allowed": [
+    4592510145
+  ]
+}
